@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Baghel</h1>
-<h3 align="center">I'm Sahil Baghel, a final-year Civil Engineering student at NIT- Bhopal. I'm currently exploring opportunities for Software Developer (SDE) roles and SDE internships.</h3>
+<h3 align="center">I'm Sahil Baghel,  2024 Btech Garduate from NIT- Bhopal. I'm currently exploring opportunities for Software Developer (SDE) roles .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolkid19&label=Profile%20views&color=0e75b6&style=flat" alt="coolkid19" /> </p>
 
